@@ -1,0 +1,116 @@
+/* assets/custom_styles.css */
+
+/* General body styling */
+body {
+    background-color: #02021a; /* Darker night blue */
+    color: white;
+    font-family: 'Arial', sans-serif;
+    font-size: 14px;
+}
+
+/* Navbar */
+.navbar-custom {
+    background-color: #02021a;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.navbar-title {
+    color: rgb(172, 172, 172);
+    font-weight: bold;
+    font-size: 20px;
+    margin-right: auto;
+}
+
+/* Tabs */
+.custom-tabs .tab {
+    background-color: whitesmoke;
+    color: black;
+    font-size: 16px;
+    padding: 10px;
+    border: none !important;
+}
+
+.custom-tabs .tab:hover {
+    background-color: rgba(146, 146, 146, 0.594); /* Light gray on hover */
+    border: none !important;
+}
+
+.custom-tabs .tab.selected {
+    background-color: #02021a !important;
+    color: rgb(205, 222, 202) !important;
+    border-bottom: 2px solid white !important;
+}
+
+.custom-tabs .tab:not(.selected) {
+    border-bottom: 1px solid #02021a;
+}
+
+.custom-tabs {
+    display: flex;
+    margin-left: auto;
+}
+
+/* Content area */
+#tabs-content {
+    padding: 20px;
+}
+
+/* Adjust text sizes */
+h5, h6 {
+    font-size: 16px;
+}
+
+/* Remove purple subtitles */
+h3 {
+    display: none;
+}
+
+/* Scroll behavior for logs */
+#training-log, #inference-log {
+    overflow-y: auto;
+    max-height: 200px;
+}
+
+/* Ensure logs auto-scroll to bottom */
+#training-log, #inference-log {
+    scroll-behavior: smooth;
+}
+
+/* Buttons */
+button {
+    background-color: #02021a;
+    color: white;
+    border: none;
+}
+
+button:hover {
+    background-color: rgba(128, 128, 128, 0.2);
+}
+
+/* Inputs */
+input {
+    background-color: #02021a;
+    color: white;
+    border: 1px solid #ccc;
+}
+
+/* Upload */
+.dccUpload {
+    background-color: #02021a;
+    color: white;
+    border: 1px dashed #ccc;
+}
+
+/* Dropdowns */
+.Select-control {
+    background-color: #02021a !important;
+    color: white !important;
+    border: 1px solid #ccc !important;
+}
+
+.Select-menu-outer {
+    background-color: #02021a !important;
+    color: white !important;
+}
