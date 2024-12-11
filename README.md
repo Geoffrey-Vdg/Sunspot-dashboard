@@ -213,7 +213,6 @@ Three augmented images are realized by original images. Selected augmentations :
 | ![Mask of detected sunspots](assets/usd198202101052_square_mask.png) | ![Expand the mask](assets/Full_mask.png) |
 
 
-
 ---
 
 ## 6. License
