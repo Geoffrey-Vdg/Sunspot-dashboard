@@ -7,9 +7,7 @@
 
 
 
-**Author:** Vandegaer Geoffrey
-
-**For:** [Royal Observatory of Belgium](https://www.astro.oma.be/en/)
+**Author:** Vandegaer Geoffrey <br> **For:** [Royal Observatory of Belgium](https://www.astro.oma.be/en/)
 
 
 
