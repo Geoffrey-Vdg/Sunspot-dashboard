@@ -13,7 +13,8 @@ import io
 import sys
 import warnings
 import time
-
+import albumentations as A
+os.environ["NO_ALBUMENTATIONS_UPDATE"] = "1"
 
 warnings.filterwarnings("ignore", category=FutureWarning, module="torch")
 os.environ["NO_ALBUMENTATIONS_UPDATE"] = "1"

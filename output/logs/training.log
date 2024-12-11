@@ -1,0 +1,40 @@
+Model name : Test
+
+------------------------- Initialization : -------------------------
+Number of epochs : 10
+Batch size : 20
+Learning rate : 0.001
+Tilling image size : 64
+Penalty weight for class 1 : 10.0
+
+[INFO] Training started at : 11/12/2024 16:56:59
+Logging configuration completed.
+
+------------------------- GPU Setup -------------------------
+Using device: cpu
+CUDA is not available. Training will use the CPU.
+
+------------------------- Training -------------------------
+[INFO] Checking and setting up paths.
+[INFO] Loading dataset...
+[INFO] Starting training on 173 training samples and 43 validation samples.
+
+Epoch [1/10], Training Loss: 1.2390, Validation Loss: 1.0353
+Epoch [2/10], Training Loss: 1.0311, Validation Loss: 1.0336
+Epoch [3/10], Training Loss: 1.0262, Validation Loss: 1.0276
+Epoch [4/10], Training Loss: 1.0233, Validation Loss: 1.0237
+Epoch [5/10], Training Loss: 1.0204, Validation Loss: 1.0236
+Epoch [6/10], Training Loss: 1.0246, Validation Loss: 1.0406
+Epoch [7/10], Training Loss: 1.0268, Validation Loss: 1.0236
+Epoch [8/10], Training Loss: 1.0220, Validation Loss: 1.0239
+Epoch [9/10], Training Loss: 1.0209, Validation Loss: 1.0241
+Epoch [10/10], Training Loss: 1.0200, Validation Loss: 1.0237
+
+------------------------- Save Model and Plot -------------------------
+[INFO] Training completed successfully.
+[INFO] Model saved to c:\Users\geoff\OneDrive\Bureau\Sunspot-dashboard-main\Sunspot-dashboard-main\output\trained_models\Test.pth
+[INFO] Training plot saved to c:\Users\geoff\OneDrive\Bureau\Sunspot-dashboard-main\Sunspot-dashboard-main\output\Test_learning_curve.png
+[INFO] Training history saved to c:\Users\geoff\OneDrive\Bureau\Sunspot-dashboard-main\Sunspot-dashboard-main\output\Test_history.json
+[INFO] Training process completed successfully.
+
+[INFO] Training ended at : 11/12/2024 16:59:07

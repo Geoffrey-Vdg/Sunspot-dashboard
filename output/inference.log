@@ -1,0 +1,136 @@
+Model used : Test
+[INFO] Inference started at : 11/12/2024 17:06:48
+
+------------------------- Load Model -------------------------
+[INFO] Loading model...
+Using device : cpu
+
+CUDA is not available. Using CPU.
+[INFO] Model 'Test' loaded successfully.
+
+------------------------- Inference Loop -------------------------
+[INFO] Starting inference on 30 images...
+[INFO] Processing image 'usd195710041500.jpg'...
+[INFO] Saved mask to 'c:\Users\geoff\OneDrive\Bureau\Sunspot-dashboard-main\Sunspot-dashboard-main\output\segmented_dataset\usd195710041500_mask.png'.
+[INFO] Saved labeled image to 'c:\Users\geoff\OneDrive\Bureau\Sunspot-dashboard-main\Sunspot-dashboard-main\output\segmented_dataset\usd195710041500_overlay.png'.
+[INFO] Detected 0 sunspots in image 'usd195710041500.jpg'.
+[INFO] Processing image 'usd195810201015.jpg'...
+[INFO] Saved mask to 'c:\Users\geoff\OneDrive\Bureau\Sunspot-dashboard-main\Sunspot-dashboard-main\output\segmented_dataset\usd195810201015_mask.png'.
+[INFO] Saved labeled image to 'c:\Users\geoff\OneDrive\Bureau\Sunspot-dashboard-main\Sunspot-dashboard-main\output\segmented_dataset\usd195810201015_overlay.png'.
+[INFO] Detected 0 sunspots in image 'usd195810201015.jpg'.
+[INFO] Processing image 'usd196409290820.jpg'...
+[INFO] Saved mask to 'c:\Users\geoff\OneDrive\Bureau\Sunspot-dashboard-main\Sunspot-dashboard-main\output\segmented_dataset\usd196409290820_mask.png'.
+[INFO] Saved labeled image to 'c:\Users\geoff\OneDrive\Bureau\Sunspot-dashboard-main\Sunspot-dashboard-main\output\segmented_dataset\usd196409290820_overlay.png'.
+[INFO] Detected 0 sunspots in image 'usd196409290820.jpg'.
+[INFO] Processing image 'usd196508270905.jpg'...
+[INFO] Saved mask to 'c:\Users\geoff\OneDrive\Bureau\Sunspot-dashboard-main\Sunspot-dashboard-main\output\segmented_dataset\usd196508270905_mask.png'.
+[INFO] Saved labeled image to 'c:\Users\geoff\OneDrive\Bureau\Sunspot-dashboard-main\Sunspot-dashboard-main\output\segmented_dataset\usd196508270905_overlay.png'.
+[INFO] Detected 0 sunspots in image 'usd196508270905.jpg'.
+[INFO] Processing image 'usd197805050810.jpg'...
+[INFO] Saved mask to 'c:\Users\geoff\OneDrive\Bureau\Sunspot-dashboard-main\Sunspot-dashboard-main\output\segmented_dataset\usd197805050810_mask.png'.
+[INFO] Saved labeled image to 'c:\Users\geoff\OneDrive\Bureau\Sunspot-dashboard-main\Sunspot-dashboard-main\output\segmented_dataset\usd197805050810_overlay.png'.
+[INFO] Detected 0 sunspots in image 'usd197805050810.jpg'.
+[INFO] Processing image 'usd198202101052.jpg'...
+[INFO] Saved mask to 'c:\Users\geoff\OneDrive\Bureau\Sunspot-dashboard-main\Sunspot-dashboard-main\output\segmented_dataset\usd198202101052_mask.png'.
+[INFO] Saved labeled image to 'c:\Users\geoff\OneDrive\Bureau\Sunspot-dashboard-main\Sunspot-dashboard-main\output\segmented_dataset\usd198202101052_overlay.png'.
+[INFO] Detected 0 sunspots in image 'usd198202101052.jpg'.
+[INFO] Processing image 'usd199003290942.jpg'...
+[INFO] Saved mask to 'c:\Users\geoff\OneDrive\Bureau\Sunspot-dashboard-main\Sunspot-dashboard-main\output\segmented_dataset\usd199003290942_mask.png'.
+[INFO] Saved labeled image to 'c:\Users\geoff\OneDrive\Bureau\Sunspot-dashboard-main\Sunspot-dashboard-main\output\segmented_dataset\usd199003290942_overlay.png'.
+[INFO] Detected 0 sunspots in image 'usd199003290942.jpg'.
+[INFO] Processing image 'usd199804081148.jpg'...
+[INFO] Saved mask to 'c:\Users\geoff\OneDrive\Bureau\Sunspot-dashboard-main\Sunspot-dashboard-main\output\segmented_dataset\usd199804081148_mask.png'.
+[INFO] Saved labeled image to 'c:\Users\geoff\OneDrive\Bureau\Sunspot-dashboard-main\Sunspot-dashboard-main\output\segmented_dataset\usd199804081148_overlay.png'.
+[INFO] Detected 0 sunspots in image 'usd199804081148.jpg'.
+[INFO] Processing image 'usd200511180830.jpg'...
+[INFO] Saved mask to 'c:\Users\geoff\OneDrive\Bureau\Sunspot-dashboard-main\Sunspot-dashboard-main\output\segmented_dataset\usd200511180830_mask.png'.
+[INFO] Saved labeled image to 'c:\Users\geoff\OneDrive\Bureau\Sunspot-dashboard-main\Sunspot-dashboard-main\output\segmented_dataset\usd200511180830_overlay.png'.
+[INFO] Detected 0 sunspots in image 'usd200511180830.jpg'.
+[INFO] Processing image 'usd201709271045.jpg'...
+[INFO] Saved mask to 'c:\Users\geoff\OneDrive\Bureau\Sunspot-dashboard-main\Sunspot-dashboard-main\output\segmented_dataset\usd201709271045_mask.png'.
+[INFO] Saved labeled image to 'c:\Users\geoff\OneDrive\Bureau\Sunspot-dashboard-main\Sunspot-dashboard-main\output\segmented_dataset\usd201709271045_overlay.png'.
+[INFO] Detected 0 sunspots in image 'usd201709271045.jpg'.
+[INFO] Processing image 'usd201805200812.png'...
+[INFO] Saved mask to 'c:\Users\geoff\OneDrive\Bureau\Sunspot-dashboard-main\Sunspot-dashboard-main\output\segmented_dataset\usd201805200812_mask.png'.
+[INFO] Saved labeled image to 'c:\Users\geoff\OneDrive\Bureau\Sunspot-dashboard-main\Sunspot-dashboard-main\output\segmented_dataset\usd201805200812_overlay.png'.
+[INFO] Detected 0 sunspots in image 'usd201805200812.png'.
+[INFO] Processing image 'usd202102171035.png'...
+[INFO] Saved mask to 'c:\Users\geoff\OneDrive\Bureau\Sunspot-dashboard-main\Sunspot-dashboard-main\output\segmented_dataset\usd202102171035_mask.png'.
+[INFO] Saved labeled image to 'c:\Users\geoff\OneDrive\Bureau\Sunspot-dashboard-main\Sunspot-dashboard-main\output\segmented_dataset\usd202102171035_overlay.png'.
+[INFO] Detected 0 sunspots in image 'usd202102171035.png'.
+[INFO] Processing image 'usd202102181003.jpg'...
+[INFO] Saved mask to 'c:\Users\geoff\OneDrive\Bureau\Sunspot-dashboard-main\Sunspot-dashboard-main\output\segmented_dataset\usd202102181003_mask.png'.
+[INFO] Saved labeled image to 'c:\Users\geoff\OneDrive\Bureau\Sunspot-dashboard-main\Sunspot-dashboard-main\output\segmented_dataset\usd202102181003_overlay.png'.
+[INFO] Detected 0 sunspots in image 'usd202102181003.jpg'.
+[INFO] Processing image 'usd202411141400.png'...
+[INFO] Saved mask to 'c:\Users\geoff\OneDrive\Bureau\Sunspot-dashboard-main\Sunspot-dashboard-main\output\segmented_dataset\usd202411141400_mask.png'.
+[INFO] Saved labeled image to 'c:\Users\geoff\OneDrive\Bureau\Sunspot-dashboard-main\Sunspot-dashboard-main\output\segmented_dataset\usd202411141400_overlay.png'.
+[INFO] Detected 0 sunspots in image 'usd202411141400.png'.
+[INFO] Processing image 'usd202411221400.jpg'...
+[INFO] Saved mask to 'c:\Users\geoff\OneDrive\Bureau\Sunspot-dashboard-main\Sunspot-dashboard-main\output\segmented_dataset\usd202411221400_mask.png'.
+[INFO] Saved labeled image to 'c:\Users\geoff\OneDrive\Bureau\Sunspot-dashboard-main\Sunspot-dashboard-main\output\segmented_dataset\usd202411221400_overlay.png'.
+[INFO] Detected 0 sunspots in image 'usd202411221400.jpg'.
+[INFO] Processing image 'usd202411221400.png'...
+[INFO] Saved mask to 'c:\Users\geoff\OneDrive\Bureau\Sunspot-dashboard-main\Sunspot-dashboard-main\output\segmented_dataset\usd202411221400_mask.png'.
+[INFO] Saved labeled image to 'c:\Users\geoff\OneDrive\Bureau\Sunspot-dashboard-main\Sunspot-dashboard-main\output\segmented_dataset\usd202411221400_overlay.png'.
+[INFO] Detected 0 sunspots in image 'usd202411221400.png'.
+[INFO] Processing image 'usd202411241125.jpg'...
+[INFO] Saved mask to 'c:\Users\geoff\OneDrive\Bureau\Sunspot-dashboard-main\Sunspot-dashboard-main\output\segmented_dataset\usd202411241125_mask.png'.
+[INFO] Saved labeled image to 'c:\Users\geoff\OneDrive\Bureau\Sunspot-dashboard-main\Sunspot-dashboard-main\output\segmented_dataset\usd202411241125_overlay.png'.
+[INFO] Detected 0 sunspots in image 'usd202411241125.jpg'.
+[INFO] Processing image 'usd202411241125.png'...
+[INFO] Saved mask to 'c:\Users\geoff\OneDrive\Bureau\Sunspot-dashboard-main\Sunspot-dashboard-main\output\segmented_dataset\usd202411241125_mask.png'.
+[INFO] Saved labeled image to 'c:\Users\geoff\OneDrive\Bureau\Sunspot-dashboard-main\Sunspot-dashboard-main\output\segmented_dataset\usd202411241125_overlay.png'.
+[INFO] Detected 0 sunspots in image 'usd202411241125.png'.
+[INFO] Processing image 'usd202411260925.jpg'...
+[INFO] Saved mask to 'c:\Users\geoff\OneDrive\Bureau\Sunspot-dashboard-main\Sunspot-dashboard-main\output\segmented_dataset\usd202411260925_mask.png'.
+[INFO] Saved labeled image to 'c:\Users\geoff\OneDrive\Bureau\Sunspot-dashboard-main\Sunspot-dashboard-main\output\segmented_dataset\usd202411260925_overlay.png'.
+[INFO] Detected 0 sunspots in image 'usd202411260925.jpg'.
+[INFO] Processing image 'usd202411260925.png'...
+[INFO] Saved mask to 'c:\Users\geoff\OneDrive\Bureau\Sunspot-dashboard-main\Sunspot-dashboard-main\output\segmented_dataset\usd202411260925_mask.png'.
+[INFO] Saved labeled image to 'c:\Users\geoff\OneDrive\Bureau\Sunspot-dashboard-main\Sunspot-dashboard-main\output\segmented_dataset\usd202411260925_overlay.png'.
+[INFO] Detected 0 sunspots in image 'usd202411260925.png'.
+[INFO] Processing image 'usd202411280937.jpg'...
+[INFO] Saved mask to 'c:\Users\geoff\OneDrive\Bureau\Sunspot-dashboard-main\Sunspot-dashboard-main\output\segmented_dataset\usd202411280937_mask.png'.
+[INFO] Saved labeled image to 'c:\Users\geoff\OneDrive\Bureau\Sunspot-dashboard-main\Sunspot-dashboard-main\output\segmented_dataset\usd202411280937_overlay.png'.
+[INFO] Detected 0 sunspots in image 'usd202411280937.jpg'.
+[INFO] Processing image 'usd202411280937.png'...
+[INFO] Saved mask to 'c:\Users\geoff\OneDrive\Bureau\Sunspot-dashboard-main\Sunspot-dashboard-main\output\segmented_dataset\usd202411280937_mask.png'.
+[INFO] Saved labeled image to 'c:\Users\geoff\OneDrive\Bureau\Sunspot-dashboard-main\Sunspot-dashboard-main\output\segmented_dataset\usd202411280937_overlay.png'.
+[INFO] Detected 0 sunspots in image 'usd202411280937.png'.
+[INFO] Processing image 'usd202411290940.jpg'...
+[INFO] Saved mask to 'c:\Users\geoff\OneDrive\Bureau\Sunspot-dashboard-main\Sunspot-dashboard-main\output\segmented_dataset\usd202411290940_mask.png'.
+[INFO] Saved labeled image to 'c:\Users\geoff\OneDrive\Bureau\Sunspot-dashboard-main\Sunspot-dashboard-main\output\segmented_dataset\usd202411290940_overlay.png'.
+[INFO] Detected 0 sunspots in image 'usd202411290940.jpg'.
+[INFO] Processing image 'usd202411290940.png'...
+[INFO] Saved mask to 'c:\Users\geoff\OneDrive\Bureau\Sunspot-dashboard-main\Sunspot-dashboard-main\output\segmented_dataset\usd202411290940_mask.png'.
+[INFO] Saved labeled image to 'c:\Users\geoff\OneDrive\Bureau\Sunspot-dashboard-main\Sunspot-dashboard-main\output\segmented_dataset\usd202411290940_overlay.png'.
+[INFO] Detected 0 sunspots in image 'usd202411290940.png'.
+[INFO] Processing image 'usd202411301005.jpg'...
+[INFO] Saved mask to 'c:\Users\geoff\OneDrive\Bureau\Sunspot-dashboard-main\Sunspot-dashboard-main\output\segmented_dataset\usd202411301005_mask.png'.
+[INFO] Saved labeled image to 'c:\Users\geoff\OneDrive\Bureau\Sunspot-dashboard-main\Sunspot-dashboard-main\output\segmented_dataset\usd202411301005_overlay.png'.
+[INFO] Detected 0 sunspots in image 'usd202411301005.jpg'.
+[INFO] Processing image 'usd202411301005.png'...
+[INFO] Saved mask to 'c:\Users\geoff\OneDrive\Bureau\Sunspot-dashboard-main\Sunspot-dashboard-main\output\segmented_dataset\usd202411301005_mask.png'.
+[INFO] Saved labeled image to 'c:\Users\geoff\OneDrive\Bureau\Sunspot-dashboard-main\Sunspot-dashboard-main\output\segmented_dataset\usd202411301005_overlay.png'.
+[INFO] Detected 0 sunspots in image 'usd202411301005.png'.
+[INFO] Processing image 'usd202411301205.jpg'...
+[INFO] Saved mask to 'c:\Users\geoff\OneDrive\Bureau\Sunspot-dashboard-main\Sunspot-dashboard-main\output\segmented_dataset\usd202411301205_mask.png'.
+[INFO] Saved labeled image to 'c:\Users\geoff\OneDrive\Bureau\Sunspot-dashboard-main\Sunspot-dashboard-main\output\segmented_dataset\usd202411301205_overlay.png'.
+[INFO] Detected 0 sunspots in image 'usd202411301205.jpg'.
+[INFO] Processing image 'usd202411301205.png'...
+[INFO] Saved mask to 'c:\Users\geoff\OneDrive\Bureau\Sunspot-dashboard-main\Sunspot-dashboard-main\output\segmented_dataset\usd202411301205_mask.png'.
+[INFO] Saved labeled image to 'c:\Users\geoff\OneDrive\Bureau\Sunspot-dashboard-main\Sunspot-dashboard-main\output\segmented_dataset\usd202411301205_overlay.png'.
+[INFO] Detected 0 sunspots in image 'usd202411301205.png'.
+[INFO] Processing image 'usd202412010953.jpg'...
+[INFO] Saved mask to 'c:\Users\geoff\OneDrive\Bureau\Sunspot-dashboard-main\Sunspot-dashboard-main\output\segmented_dataset\usd202412010953_mask.png'.
+[INFO] Saved labeled image to 'c:\Users\geoff\OneDrive\Bureau\Sunspot-dashboard-main\Sunspot-dashboard-main\output\segmented_dataset\usd202412010953_overlay.png'.
+[INFO] Detected 0 sunspots in image 'usd202412010953.jpg'.
+[INFO] Processing image 'usd202412010953.png'...
+[INFO] Saved mask to 'c:\Users\geoff\OneDrive\Bureau\Sunspot-dashboard-main\Sunspot-dashboard-main\output\segmented_dataset\usd202412010953_mask.png'.
+[INFO] Saved labeled image to 'c:\Users\geoff\OneDrive\Bureau\Sunspot-dashboard-main\Sunspot-dashboard-main\output\segmented_dataset\usd202412010953_overlay.png'.
+[INFO] Detected 0 sunspots in image 'usd202412010953.png'.
+[INFO] CSV file saved to 'c:\Users\geoff\OneDrive\Bureau\Sunspot-dashboard-main\Sunspot-dashboard-main\output\sunspot_table.csv'.
+[INFO] JSON saved to 'c:\Users\geoff\OneDrive\Bureau\Sunspot-dashboard-main\Sunspot-dashboard-main\output\Test_features_polar_coordinates.json'.
+[INFO] Inference completed.
+Inference ended at : 11/12/2024 17:07:53
