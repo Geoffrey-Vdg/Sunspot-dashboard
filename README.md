@@ -7,8 +7,7 @@
 
 
 
-**Author:** Vandegaer Geoffrey
-**For:** [Royal Observatory of Belgium](https://www.astro.oma.be/en/)
+**Author:** Vandegaer Geoffrey <br> **For:** [Royal Observatory of Belgium](https://www.astro.oma.be/en/)
 
 
 
@@ -211,7 +210,6 @@ Three augmented images are realized by original images. Selected augmentations :
 | Step 4: Mask of detected sunspots | Step 5: Expand the mask |
 |-----------------------------------|-------------------------|
 | ![Mask of detected sunspots](assets/usd198202101052_square_mask.png) | ![Expand the mask](assets/Full_mask.png) |
-
 
 
 ---
